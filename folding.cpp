@@ -1,5 +1,5 @@
 #include "stdafx.h"
-#include "Struct_Chain.h"
+#include "structChain.h"
 #define NUMTEST 100
 #define ¦Ó 100000
 #define tINACF 1000000
